@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+TextUtils Website
+TextUtils is a web-based text manipulation tool designed to provide users with a range of features for formatting, analyzing, and transforming text. Built using React and styled with Bootstrap, TextUtils offers a user-friendly interface and a variety of functionalities to meet users' text editing needs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Functionality
+TextUtils provides the following key features:
 
-## Available Scripts
+Character Count:
 
-In the project directory, you can run:
+Calculate the total number of characters present in the input text, including letters, numbers, symbols, and whitespace.
+Word Count:
 
-### `npm start`
+Determine the total number of words in the input text, counting individual words separated by spaces or punctuation marks.
+Case Conversion:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Convert the case of the text to uppercase or lowercase.
+Text Transformation:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Remove extra spaces from the text.
+GUI Design
+TextUtils utilizes Bootstrap for its GUI design, ensuring a responsive layout and clean interface. The website's design adheres to Bootstrap's styling guidelines, providing a visually appealing and user-friendly experience across different devices and screen sizes.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Personal Contributions
+As the developer of TextUtils, I played a significant role in designing and implementing the front-end components and functionality using React. Additionally, I integrated Bootstrap to maintain consistency in styling and layout across the website. My contributions aimed to enhance user experience and usability while providing efficient text manipulation capabilities.
