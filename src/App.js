@@ -5,10 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        {/* Replace the default React logo with your own image */}
         <img src={logo} className="App-logo" alt="logo" />
+        {/* Modify the text content */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to My Awesome React App! {/* Change this line with your desired message */}
         </p>
+        {/* Modify the link text and URL */}
         <a
           className="App-link"
           href="https://reactjs.org"
