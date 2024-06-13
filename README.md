@@ -18,6 +18,8 @@ TextUtils provides the following key features:
 
 - **Text Transformation**:
   - Remove extra spaces from the text.
+## Screenshots
+![image](https://github.com/ipsita68/TEXTUTILS-REACT/assets/121110612/eee8b4d8-a035-4e6b-8217-3099cabdadbc)
 
 ## GUI Design
 
